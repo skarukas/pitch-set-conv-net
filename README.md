@@ -17,4 +17,4 @@ These are toy examples, but they show interesting properties, of both pitch sets
   - one layer of 1D circular convolution (6 filters of size 12), no pooling
   - one fully connected layer 1x6, applied to each pitch class to maintain transpositional invariance
 
-Also implemented is a visualization of the algorithm's convergence with respect to its parameters, using PCA dimensionality reduction to reduce the 162-dimensional parameter space to two latent variables.
+Also implemented is a 3D visualization of the algorithm's convergence with respect to its parameters, using PCA dimensionality reduction to reduce the 162-dimensional parameter space to two latent variables.
