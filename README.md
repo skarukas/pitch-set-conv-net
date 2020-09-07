@@ -10,6 +10,7 @@ These are toy examples, but they show interesting properties, of both pitch sets
 - Various activation functions
 - Circular/Periodic 1D Convolution
 - Gradient Descent
+- Accelerated Descent
 - Momentum Gradient Descent
 - AdaGrad
 - Convoluional Neural Network 
