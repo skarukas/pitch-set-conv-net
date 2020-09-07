@@ -1,0 +1,10 @@
+% convert to pitch space
+
+%% TODO list
+
+% X = convertToPitchSpace(pitches);
+% params = gradientDescent(@(X, y, params) NNCost(X, y, params, lambda) ..., 
+params, learning_rate);
+% [cost, gradient] = NNCost(X, y, params, lambda);
+% y = predict(pitches);
+
